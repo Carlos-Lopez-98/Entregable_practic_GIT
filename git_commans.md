@@ -8,7 +8,7 @@ git pull: para revisar o actualizar cambios , bajarlos de una rama a otra
 
 git checkout:para pasar de una rama a otra
 
-git log:se puede usar para revidar cambios en lod commit
+git log:se puede usar para revisar cambios en los commit
 
 git branch:se puede usar para ver en que rama se encuentra cituado o crear una misma
 
